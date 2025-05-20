@@ -1,9 +1,10 @@
 import React from 'react'
+import Meal from './Components/Meal'
 
 const App = () => {
   return (
     <div>
-      app
+      <Meal />
     </div>
   )
 }
